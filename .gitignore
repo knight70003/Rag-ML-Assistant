@@ -1,0 +1,18 @@
+# Python Virtual Environment
+Assignenv/
+venv/
+env/
+
+# Environment Variables & API Keys
+.env
+
+# Python Bytecode & Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE Configurations
+.vscode/
+.idea/
+

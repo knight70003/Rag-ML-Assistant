@@ -1,0 +1,26 @@
+1. What is Tom Mitchell’s formal definition of Machine Learning?
+2. Why does traditional programming fail in complex tasks like speech recognition?
+3. What is "Data Mining" in the context of Machine Learning?
+4. How does an ML-based spam filter naturally handle a fluctuating environment compared to traditional hardcoded rules?
+5. What are the three broad criteria used to classify different types of Machine Learning systems?
+6. What is the primary requirement regarding data when building a Supervised Learning system?
+7. Explain the fundamental difference between a Classification task and a Regression task.
+8. Provide an example of a Self-Supervised Learning task as described in the text.
+9. Define the role of a "Policy" within a Reinforcement Learning framework.
+10. What is Batch Learning, and why is it often referred to as offline training?
+11. Under what specific real-world conditions is Online Learning considered absolutely necessary?
+12. What happens to a system's memory of older historical patterns if it has a high "Learning Rate" in Online Learning?
+13. What is the major security and operational risk associated with deploying Online Learning systems?
+14. Define "Rote Learning" as per the terminology in the text.
+15. How does a system acquire new knowledge when using "Learning by Analogy"?
+16. What is the core mechanism of Deductive Learning?
+17. What is the very first step an engineer must take when beginning to design an ML learning system?
+18. Which structural and resource constraints dictate the choice of an ML algorithm’s complexity?
+19. What is the primary objective of the Find-S Algorithm during its search of the hypothesis space?
+20. What extreme inductive bias does the Find-S algorithm possess regarding unseen instances?
+21. What assumption is explicitly made about noise distribution during the derivation of the Maximum Likelihood hypothesis?
+22. Why is a Log Transformation mathematically applied when computing Maximum Likelihood Hypotheses?
+23. State the core philosophy of the Minimum Description Length (MDL) principle.
+24. Which historical philosophical rule serves as the theoretical foundation for the MDL principle?
+25. How does an Instance-Based Learning system generalize to new, unseen cases?
+

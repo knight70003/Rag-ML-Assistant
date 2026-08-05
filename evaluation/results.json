@@ -1,0 +1,32 @@
+[
+  {
+    "question": "What is Machine Learning?",
+    "expected_page": 1,
+    "retrieved_pages": [1, 2, 5]
+  },
+  {
+    "question": "What is Supervised Learning?",
+    "expected_page": 4,
+    "retrieved_pages": [4, 6, 3]
+  },
+  {
+    "question": "What are types of Machine Learning Systems?",
+    "expected_page": 3,
+    "retrieved_pages": [3, 1, 7]
+  },
+  {
+    "question": "What is Overfitting?",
+    "expected_page": 15,
+    "retrieved_pages": [14, 15, 18]
+  },
+  {
+    "question": "What is Semi-supervised learning?",
+    "expected_page": 8,
+    "retrieved_pages": [8, 9, 6]
+  },
+  {
+    "question": "What is Reinforcement learning?",
+    "expected_page": 9,
+    "retrieved_pages": [9, 8, 10]
+  }
+]
