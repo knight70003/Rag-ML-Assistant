@@ -45,8 +45,8 @@ A production-ready, low-cost Retrieval-Augmented Generation (RAG) system built w
 |                                 EVALUATION PHASE                                  |
 |                                                                                   |
 |  +---------------------+      +-----------------------+     +------------------+  |
-|  | ground_truth.json   | ---> | evaluation/           | --> | Terminal Benchmark| |
-|  | (Expected Pages)    |      | evaluate.py           |     | Output Report    |  |
+|  | ground_truth.json   | ---> | evaluation/           | --> |Terminal Benchmark|  |
+|  | (Expected Pages)    |      | evaluate.py           |     |Output Report     |  |
 |  +---------------------+      +-----------------------+     +------------------+  |
 |                                           ^                                       |
 |  +---------------------+                  |                                       |
